@@ -1,0 +1,14 @@
+{
+    "name"          : "yipyip",
+    "description"   : "Command Line File Util",
+    "url"           : "http://vowsjs.org",
+    "author"        : "Jozef Dransfield <Jozef.Dransfield@me.com>",
+    "bin"           : {
+        "elmo": "./bin/yipyip.js"
+    },
+    "directories"   : {
+        "bin": "./bin"
+    },
+    "version"       : "0.0.1",
+    "dependencies"  : {"underscore": ""}
+}
